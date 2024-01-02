@@ -1,0 +1,12 @@
+{
+  "name": "Cosmonautical Valheim Modpack",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "A Valheim modpack used on Cosmonautical gaming servers",
+  "dependencies": [
+    "BepInEx-BepInExPack_H3VR-5.4.1101",
+    "BepInEx-MonoMod_Loader-1.0.0",
+    "nrgill28-HookGenPatcher_H3VR-1.2.3",
+    "nrgill28-Sodalite-1.0.0"
+  ]
+}
